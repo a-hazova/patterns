@@ -7,7 +7,7 @@ def converter():
         def inches_to_centimeters(inches):
             return inches * INCH
         def feet_to_meters(feet): 
-            return feet * FOOT,
+            return feet * FOOT
         def milesToKilometers( miles):
             return miles * MILE
     return PublicClass
